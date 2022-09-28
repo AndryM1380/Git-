@@ -25,3 +25,17 @@ Retina Network Security Scanner продается в виде лицензии 
 ![image](https://user-images.githubusercontent.com/112687453/192710448-983b15ba-cab9-4925-92d1-c4e391282342.png)
 **Splunk** – эффективный инструмент, который защитит компанию от несанкционированного доступа. Настроить приложение можно в зависимости от характера работы организации и необходимости мониторинга определенной информации. Инструмент является универсальным и работает в любой сфере бизнеса, включая медицину, финансы. К преимуществам ПО относят оперативное обнаружение угрозы, реальную оценку рисков, сбор информации и упорядочение событий;
 ![image](https://user-images.githubusercontent.com/112687453/192710655-be247021-ffad-48ae-bd9c-dbc3cea96a6f.png)
+**Xspider** Аналог приложению Retina Network Security Scanner
+1.Скачал приложение 
+![image](https://user-images.githubusercontent.com/112687453/192739562-31e79cbe-2f21-4942-be9e-aa47761f00a2.png)
+2.Изучаю приложение
+![image](https://user-images.githubusercontent.com/112687453/192739874-c062b2da-8447-4a21-a881-ea8cd00cfea2.png)
+![image](https://user-images.githubusercontent.com/112687453/192739964-5af1305e-a355-46e8-8b09-1335769489c6.png)
+![image](https://user-images.githubusercontent.com/112687453/192740036-749a9d32-ceed-4eb1-8900-76d20ec0b07e.png)
+![image](https://user-images.githubusercontent.com/112687453/192740173-1faa61c5-33c5-4504-b593-5e1386896776.png)
+3.Добавил хост
+![image](https://user-images.githubusercontent.com/112687453/192740567-70c8d0e8-c960-4d97-b110-71f8d54b61ae.png)
+4.Начал сканирование
+![image](https://user-images.githubusercontent.com/112687453/192741564-20337379-d2fd-49b9-9ad8-73e1716341d5.png)
+5. сделал отчет уязвимостей
+file:///D:/bin/reports/demo.html
