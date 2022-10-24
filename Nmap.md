@@ -141,3 +141,10 @@ nmap7
 nmap8
 
 Обратите внимание, что здесь есть почти вся информация, которую мы уже видели раньше. Ее можно использовать чтобы увеличить защиту этой машины.
+
+![image](https://user-images.githubusercontent.com/112687453/197507647-17b0a3c6-33c9-4959-b3f6-96630b083a55.png)
+![image](https://user-images.githubusercontent.com/112687453/197507880-445b689d-dbaa-473f-a4cf-66b4b13ccfee.png)
+![image](https://user-images.githubusercontent.com/112687453/197508121-a8b931cc-da98-4c89-8f39-620cf70d7f9d.png)![image](https://user-images.githubusercontent.com/112687453/197508277-b3a1bd94-b432-42f5-865e-076d22e9093b.png)
+
+![image](https://user-images.githubusercontent.com/112687453/197508541-7aab9cae-b9e3-41d5-9df5-8a54edcab128.png)
+![image](https://user-images.githubusercontent.com/112687453/197509117-d47fda49-9ccc-4ac0-bde7-7a6512bdb80a.png)
